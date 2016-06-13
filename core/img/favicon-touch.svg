@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -6,11 +8,15 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   viewBox="0 0 128 128"
-   height="128"
-   width="128"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
    version="1.1"
-   id="svg2">
+   inkscape:version="0.91 r13725"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   sodipodi:docname="favicon-touch.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,12 +31,33 @@
   </metadata>
   <defs
      id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <image
-     y="0"
-     x="0"
-     id="image10"
+     width="128"
+     height="128"
+     preserveAspectRatio="none"
+     style="image-rendering:optimizeQuality"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
-WXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4AYNEgYSHfs9jwAAEWhJREFUeNrtnXl4FFW6xn/V3els
+WXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4AYNEzU4M+n7XgAAEWhJREFUeNrtnXl4FFW6xn/V3els
 JAIGQpJmX4LYKMpiADOA3sTlAmZUriDXsWbE+4iPMyM4rqij13EdR6/7uIy2joIKiigKIqIIBAIq
 KAVBZDMUIQHCkkWSdLrr/pEKTyck3Z3kdHV3Ui9P/kg4XVV93re+833fOec7Eh0QTpfDAvQDBgMO
 IBXIALoDKXqzJKAnoAHFQLX+9yKgEigF9gP7gF1AiSKrWkfrK6kDkG0DzgbGAOcCWcD5IfhubmAz
@@ -111,8 +138,7 @@ PVuuEpgLvO5bqs0UQGMhJADTgafRT7juACjVxf2BIqsRVRE7YsMx3SJMBOYhcPbLYHysC3mtvs8y
 hO+kfkPMDqAmWgnvsAII4EM0/KTpIWZvGvaI1KNhnN6r/61Y/90rcvWNCRMRh/8Hliy7il5KfGUA
 AAAASUVORK5CYII=
 "
-     style="image-rendering:optimizeQuality"
-     preserveAspectRatio="none"
-     height="128"
-     width="128" />
+     id="image10"
+     x="0"
+     y="0" />
 </svg>
