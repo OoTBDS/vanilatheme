@@ -204,13 +204,13 @@ textarea:disabled {
 .primary, input[type="submit"].primary, input[type="button"].primary, button.primary, .button.primary {
 	border: 1px solid #2ca01c;
 	background-color: #2ca01c;
-	color: #000000;
+	color: #ffffff;
 }
 	.primary:hover, input[type="submit"].primary:hover, input[type="button"].primary:hover, button.primary:hover, .button.primary:hover,
 	.primary:focus, input[type="submit"].primary:focus, input[type="button"].primary:focus, button.primary:focus, .button.primary:focus {
 		border: 1px solid #2ca01c;
 		background-color: #2ca01c;
-		color: #000000;
+		color: #ffffff;
 	}
 	.primary:active, input[type="submit"].primary:active, input[type="button"].primary:active, button.primary:active, .button.primary:active {
 		border: 1px solid #2ca01c;
@@ -331,7 +331,7 @@ input[type="submit"].enabled {
 #body-login form fieldset .warning-info,
 #body-login form input[type="checkbox"]+label {
 	text-align: center;
-	color: #fff;
+	color: #000000;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
 	opacity: .6;
@@ -488,7 +488,7 @@ label.infield {
 
 #body-login #remember_login:hover+label,
 #body-login #remember_login:focus+label  {
-	color: #fff !important;
+	color: #000000 !important;
 }
 
 #body-login #showAdvanced > img {
@@ -599,7 +599,7 @@ label.infield {
 .warning legend,
 .warning a,
 .error a {
-	color: #fff !important;
+	color: #000000 !important;
 	font-weight: bold !important;
 }
 .error pre {
