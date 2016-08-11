@@ -204,18 +204,18 @@ textarea:disabled {
 .primary, input[type="submit"].primary, input[type="button"].primary, button.primary, .button.primary {
 	border: 1px solid #2ca01c;
 	background-color: #2ca01c;
-	color: #ffffff;
+	color: #fff;
 }
 	.primary:hover, input[type="submit"].primary:hover, input[type="button"].primary:hover, button.primary:hover, .button.primary:hover,
 	.primary:focus, input[type="submit"].primary:focus, input[type="button"].primary:focus, button.primary:focus, .button.primary:focus {
 		border: 1px solid #2ca01c;
 		background-color: #2ca01c;
-		color: #ffffff;
+		color: #fff;
 	}
 	.primary:active, input[type="submit"].primary:active, input[type="button"].primary:active, button.primary:active, .button.primary:active {
 		border: 1px solid #2ca01c;
 		background-color: #2ca01c;
-		color: #bbb;
+		color: #fff;
 	}
 
 /* Searchbox */
@@ -223,7 +223,7 @@ textarea:disabled {
 	position: relative;
 	font-size: 1.2em;
 	padding-left: 1.5em;
-	background: #000000 url('../img/actions/search.svg') no-repeat .5em center;
+	background: #fff url('../img/actions/search.svg') no-repeat .5em center;
 	border: 0;
 	border-radius: 2em;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter:alpha(opacity=70); opacity: .7;
@@ -331,7 +331,7 @@ input[type="submit"].enabled {
 #body-login form fieldset .warning-info,
 #body-login form input[type="checkbox"]+label {
 	text-align: center;
-	color: #000000;
+	color: #000;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
 	opacity: .6;
@@ -488,7 +488,7 @@ label.infield {
 
 #body-login #remember_login:hover+label,
 #body-login #remember_login:focus+label  {
-	color: #000000 !important;
+	color: #000 !important;
 }
 
 #body-login #showAdvanced > img {
@@ -497,11 +497,11 @@ label.infield {
 }
 
 #body-login p.info a, #body-login #showAdvanced {
-	color: #000000;
+	color: #000;
 }
 
 #body-login p.info a:hover, #body-login p.info a:focus {
-	color: #000000;
+	color: #000;
 }
 
 
